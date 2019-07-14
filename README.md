@@ -1,5 +1,4 @@
 # ALC-Challenge
-ALC 4.0: Phase 1 Challenge- Mobile Web
 
 This Challenge is aimed at verifying a Credit Card for payment.
 
